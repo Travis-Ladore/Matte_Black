@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bb0059196dcc942f6b63253a706cabf6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - What The FUN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c6e23a229015c49eea4b4b4dddcbe492, type: 3}
+  - {fileID: 12800000, guid: 67aee00f029da439797b2950fd5dd906, type: 3}
+  - {fileID: 12800000, guid: 981684185079a4e14b6f2923804f23ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
