@@ -48,7 +48,7 @@ MonoBehaviour:
         asymptoteValue: 0.5
         stiffness: 1
       sidewaysFriction:
-        extremumSlip: 0.2
+        extremumSlip: 0.45
         extremumValue: 1
         asymptoteSlip: 0.5
         asymptoteValue: 0.75
@@ -63,6 +63,6 @@ MonoBehaviour:
       sidewaysFriction:
         extremumSlip: 0.2
         extremumValue: 0.5
-        asymptoteSlip: 0.3
+        asymptoteSlip: 0.8
         asymptoteValue: 0.5
         stiffness: 1

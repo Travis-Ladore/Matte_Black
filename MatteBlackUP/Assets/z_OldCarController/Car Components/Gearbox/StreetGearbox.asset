@@ -19,9 +19,8 @@ MonoBehaviour:
   - 0.966
   - 0.742
   - 0.426
-  differentialRatio: 4
-  idleRpm: 800
-  redLineRpm: 6000
+  idleRpm: 2000
+  redLineRpm: 8000
   upShiftRpm: 5500
   downShiftRpm: 2000
   clutchSpeed: 4
