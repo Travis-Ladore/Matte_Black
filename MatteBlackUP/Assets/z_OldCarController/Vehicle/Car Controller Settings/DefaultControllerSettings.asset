@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 939aea214cb74a54c91dbad2e0ea284f, type: 3}
+  m_Name: DefaultControllerSettings
+  m_EditorClassIdentifier: 
+  steeringSpeed: 6
+  steeringCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.008001013
+      value: 0.8151536
+      inSlope: 0.74068457
+      outSlope: 0.74068457
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.069842204
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  driftPowerMultiplier:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.0056915283
+      value: 0.9610596
+      inSlope: 0.49701518
+      outSlope: 0.49701518
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.98861694
+      value: 1.455246
+      inSlope: 0.49701518
+      outSlope: 0.49701518
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  driftStartAngle: 20
+  driftTorqueMultiplier: 10
+  maxDriftSteeringAngle: 70
+  maxDriftAngle: 60
+  maxDriftCameraRotation: 15
+  driftCameraRotationSpeed: 5
+  smokeThreshold: 0.8
+  skidThreshold: 1
+  tireSkidAudio: {fileID: 8300000, guid: 7f7b4e38ecf652b4a92ab5e21157f1f1, type: 3}

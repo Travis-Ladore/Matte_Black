@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8247c5879355e49bc4896fa9b939e5, type: 3}
+  m_Name: StreetGearbox
+  m_EditorClassIdentifier: 
+  gearRatios:
+  - 3.23
+  - 1.9
+  - 1.269
+  - 0.966
+  - 0.742
+  - 0.426
+  idleRpm: 2000
+  redLineRpm: 8000
+  upShiftRpm: 5500
+  downShiftRpm: 2000
+  clutchSpeed: 4
+  gearChangeTime: 1.5
